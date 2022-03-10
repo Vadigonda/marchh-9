@@ -1,0 +1,5 @@
+str="Aditya educational instituations,Aditya group"
+x=str.count("Aditya")
+print(x)
+
+2
